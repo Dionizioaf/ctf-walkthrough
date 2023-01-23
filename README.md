@@ -1,6 +1,6 @@
 # CTF Walkthrough
 
-Document my CTF jorney so it can help others, and give me a easy access to commands used.
+Document my CTF journey so it can help others, and give me a easy access to commands used.
 
 ## [PicoCTF](https://picoctf.org/)
 
@@ -11,6 +11,7 @@ Document my CTF jorney so it can help others, and give me a easy access to comma
 | Obedient cat     | [Link](https://play.picoctf.org/practice/challenge/147?category=5&page=1) | [Doc](/picoctf/general_147.md) | 22/01/2023 |
 | Python Wrangling | [Link](https://play.picoctf.org/practice/challenge/166?category=5&page=1) | [Doc](/picoctf/general_166.md) | 22/01/2023 |
 | Wave a flag      | [Link](https://play.picoctf.org/practice/challenge/170?category=5&page=1) | [Doc](/picoctf/general_170.md) | 22/01/2023 |
+| Nice netcat...      | [Link](https://play.picoctf.org/practice/challenge/156?category=5&page=1) | [Doc](/picoctf/general_156.md) | 22/01/2023 |
 |                  |                                                                        |                             |            |
 
 ### Web Exploitation
